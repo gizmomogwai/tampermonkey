@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         Hide GMail Navigation
+// @name         Hide GMail Navigation for searches
 // @namespace    http://tampermonkey.net/
-// @version      1.0.0
+// @version      1.0.1
 // @updateURL    https://raw.githubusercontent.com/gizmomogwai/tampermonkey/refs/heads/main/Hide%20GMail%20Navigation.user.js
 // @description  Hide navigation for direct search links
 // @author       christian.koestlin@gmail.com
